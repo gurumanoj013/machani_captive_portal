@@ -17,7 +17,7 @@ This guide will walk you through setting up a Wi-Fi captive portal using NoDogSp
     ```
     for example:
     ``` bash
-    ssh root@<192.168.8.1>
+    ssh root@192.168.8.1
     ```
 
 ## Installation Steps
